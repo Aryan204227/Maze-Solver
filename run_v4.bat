@@ -1,3 +1,0 @@
-@echo off
-echo Starting Maze Solver V4.0...
-java -cp out com.mazesolver.Main
